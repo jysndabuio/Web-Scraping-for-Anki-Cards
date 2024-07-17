@@ -1,5 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
+import os
+import sys 
+import json
+
 
 
 def anki(keyword, word_type):
@@ -23,3 +27,6 @@ def text_strip(verb):
 
 
 
+
+
+  
